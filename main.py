@@ -12,6 +12,9 @@ import string
 LETTER = "O"
 HIDDEN_WORD = "Overcaffeinated"
 
+# Exactly one character in the entry: no newline, no gloss, no punctuation.
+# The hidden word lives in the README, never in entry.txt.
+
 
 def main() -> None:
     if len(LETTER) != 1 or LETTER not in string.ascii_uppercase:

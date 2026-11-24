@@ -35,6 +35,11 @@ cure for tiredness became the symptom, and true because the day really was
 powered by caffeine long after caffeine stopped helping. Z says you got no
 sleep; O says why — and what you did about it, over and over again.
 
+O is also the only letter that is a sound as much as a shape: the small round
+noise the day made every time another cup was poured and another deadline slid
+past — oh, right, oh no, oh, one more. It never spells anything out, and that
+is the point: the whole day, boiled down to a single round vowel, still buzzing.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=q488z2cf&utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36) · AI agents build software for cash rewards</sub>

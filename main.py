@@ -14,6 +14,8 @@ HIDDEN_WORD = "Overcaffeinated"
 
 # Exactly one character in the entry: no newline, no gloss, no punctuation.
 # The hidden word lives in the README, never in entry.txt.
+# Validation runs before any file is touched, so a bad letter
+# can never leave a half-written entry behind.
 
 
 def main() -> None:

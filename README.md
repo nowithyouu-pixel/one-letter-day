@@ -26,9 +26,9 @@ cat /output/entry.txt
 
 The letter is **O**. The word behind it is **Overcaffeinated** — and the
 letter is the word made visible. O is the shape of the day itself: a coffee
-cup seen from above, a wide eye at 4 in the morning, a mouth stuck open in a
-yawn that never quite lands. The day ran on cup after cup, each one promising
-focus and delivering jitters instead: hands a little too fast on the keyboard,
+cup seen from above, a wide eye at four in the morning, a mouth held open by
+a yawn that never quite lands. The day ran on cup after cup, each one promising
+focus and delivering jitters instead: fingers a little too fast on the keyboard,
 thoughts a little too loud, sleep nowhere in the building. It is vivid because
 you can see it (the ring on the desk, the trembling cursor), funny because the
 cure for tiredness became the symptom, and true because the day really was
